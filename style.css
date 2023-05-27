@@ -19,6 +19,7 @@ html {
     visibility: hidden;
     display: block;
     font-size: 0;
+    font-family:serif;
     content: " ";
     clear: both;
     height: 0;
